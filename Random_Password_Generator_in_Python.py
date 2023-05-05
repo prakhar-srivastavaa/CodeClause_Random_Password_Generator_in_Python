@@ -1,6 +1,5 @@
 ## Random Password Generator in Python 
 
-## Imported Library ##
 
 import string
 import random
@@ -55,4 +54,4 @@ for i in range(length):
 # printing password as a string
 print("The random password is " + "".join(password))
 
-### The Code is ended, Thank You CodeClause ####
+
